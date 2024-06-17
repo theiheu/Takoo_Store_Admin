@@ -57,6 +57,13 @@ const config: Config = {
           fontWeight: "500",
         },
       ],
+      "body-small": [
+        "18px",
+        {
+          lineHeight: "100%",
+          fontWeight: "400",
+        },
+      ],
       "base-bold": [
         "16px",
         {
